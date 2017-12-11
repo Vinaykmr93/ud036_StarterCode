@@ -5,9 +5,9 @@ Movie Website
 This is a project  which has list of movies and plays the trailer whichever is selected .
 
 ### Files included in this project 
-* media.py - The main class is created in this file.
-* entertainment.py  - The objects of the main class is created in this file.
-* fresh_tomatoes.py - This file takes list of movies as the input and creates the movie website. 
+* [media.py](media.py) - The main class is created in this file.
+* [entertainment_center.py](entertainment_center.py) - The objects of the main class is created in this file.
+* [fresh_tomatoes.py](fresh_tomatoes.py) - This file takes list of movies as the input and creates the movie website. 
 
 ### Pre-requisite
 Phyton has to be installed.
