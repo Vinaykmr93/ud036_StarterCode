@@ -25,3 +25,4 @@ Udacity
 
 ### License
 
+Licensed under [MIT license](LICENSE)
