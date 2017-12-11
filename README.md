@@ -22,3 +22,6 @@ To execute the program run the entertainment_center.py file.
 
 ### Contributors
 Udacity
+
+### License
+Licensed under MIT license : [LICENSE](ud036_StarterCode/LICENSE)
