@@ -47,5 +47,5 @@ movies = [Kung_fu_panda,
           The_Shawshank_Redemption,
           Enemy_at_the_gates]
 """ open_movies_page(<movie_list>) takes list of movies and outputs the
-movie website"""
+movie website. This function is declared in fresh_tomatoes"""
 fresh_tomatoes.open_movies_page(movies)
